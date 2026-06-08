@@ -1,0 +1,15 @@
+artifact_path: file:///C:/Users/ASUS/Documents/Data Faalih/carbon_emission_project/mlruns/1/models/m-b148773efd1d49d081d9f4d8aebc2144/artifacts
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.2
+    skops_trusted_types: null
+mlflow_version: 3.13.0
+model_id: m-b148773efd1d49d081d9f4d8aebc2144
+model_size_bytes: 4048
+model_uuid: m-b148773efd1d49d081d9f4d8aebc2144
+prompts: null
+run_id: eafed829ffe340fb9a0272405ea82d47
+utc_time_created: '2026-06-07 21:36:16.459814'

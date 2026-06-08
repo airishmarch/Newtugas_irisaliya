@@ -1,0 +1,141 @@
+REF_AREA,Reference area,TIME_PERIOD,productivity,emissions,renewable_supply,sustainability_category,country_pattern,emissions_scaled,cluster
+ALB,Albania,2020,10.88,3.39,26.48,Low,Green Leaders,-0.24501518917426124,0
+DZA,Algeria,2020,4.21,134.52,0.1,Very Low,Industrial Giants,1.203534935100801,0
+AGO,Angola,2020,11.79,15.29,7.89,Very Low,Green Leaders,-0.11355979011322839,0
+ARG,Argentina,2020,5.02,149.02,5.36,Very Low,Industrial Giants,1.363711681855841,0
+ARM,Armenia,2020,5.24,6.33,4.99,Very Low,Industrial Giants,-0.21253797293565313,0
+AUS,Australia,2020,3.43,369.04,4.41,Very Low,Emerging Polluters,3.7942004971002485,0
+AUT,Austria,2020,7.61,57.37,17.19,Very Low,Developing Sustainers,0.35128417564208775,0
+AZE,Azerbaijan,2020,4.4,31.96,0.91,Very Low,Industrial Giants,0.07058823529411765,0
+BHR,Bahrain,2020,2.1,32.12,0.0,Very Low,Emerging Polluters,0.07235570284451805,0
+BGD,Bangladesh,2020,8.95,85.63,0.25,Very Low,Developing Sustainers,0.6634631317315658,0
+BLR,Belarus,2020,3.39,52.5,0.47,Very Low,Emerging Polluters,0.2974868820767744,0
+BEL,Belgium,2020,6.4,82.55,5.76,Very Low,Developing Sustainers,0.6294393813863572,0
+BEN,Benin,2020,5.26,7.61,0.01,Very Low,Industrial Giants,-0.1983982325324496,0
+BOL,Bolivia,2020,4.88,17.05,4.16,Very Low,Industrial Giants,-0.09411764705882351,0
+BIH,Bosnia and Herzegovina,2020,2.24,20.52,5.95,Very Low,Emerging Polluters,-0.05578569455951395,0
+BWA,Botswana,2020,5.92,5.76,0.08,Very Low,Industrial Giants,-0.2188345760839547,0
+BRA,Brazil,2020,7.54,386.01,21.66,Low,Developing Sustainers,3.9816625241645953,0
+BRN,Brunei Darussalam,2020,2.99,9.19,0.0,Very Low,Emerging Polluters,-0.18094449047224526,0
+BGR,Bulgaria,2020,4.34,33.04,4.74,Very Low,Industrial Giants,0.08251864125932061,0
+KHM,Cambodia,2020,4.96,13.31,4.41,Very Low,Industrial Giants,-0.13543220104943385,0
+CMR,Cameroon,2020,13.46,6.91,4.64,Very Low,Green Leaders,-0.2061309030654515,0
+CAN,Canada,2020,3.32,497.89,13.77,Very Low,Emerging Polluters,5.217564208782104,0
+CHL,Chile,2020,4.9,83.86,8.93,Very Low,Industrial Giants,0.6439105219552609,0
+CHN,China (People’s Republic of),2020,2.39,10053.32,6.6,Very Low,Emerging Polluters,110.77326705330019,2
+COL,Colombia,2020,8.91,71.16,12.51,Very Low,Developing Sustainers,0.5036177851422259,0
+COG,Congo,2020,5.35,3.59,2.37,Very Low,Industrial Giants,-0.24280585473626068,0
+CRI,Costa Rica,2020,14.11,6.6,44.59,Medium,Green Leaders,-0.20955537144435235,1
+HRV,Croatia,2020,7.16,14.41,10.52,Very Low,Developing Sustainers,-0.12328086164043081,0
+CUW,Curaçao,2020,1.43,2.02,2.56,Very Low,Emerging Polluters,-0.260149130074565,0
+CYP,Cyprus,2020,5.52,5.89,9.0,Very Low,Industrial Giants,-0.21739850869925434,0
+CZE,Czechia,2020,4.53,87.25,3.79,Very Low,Industrial Giants,0.6813587406793703,0
+CIV,Côte d’Ivoire,2020,13.54,10.65,2.59,Very Low,Green Leaders,-0.1648163490748412,0
+COD,Democratic Republic of the Congo,2020,35.67,2.33,3.3,Very Low,Green Leaders,-0.2567246616956642,0
+DNK,Denmark,2020,11.55,25.94,18.83,Very Low,Green Leaders,0.004087268710301032,0
+DOM,Dominican Republic,2020,7.39,24.53,2.92,Very Low,Developing Sustainers,-0.011488539077602862,0
+ECU,Ecuador,2020,5.59,30.59,15.76,Very Low,Industrial Giants,0.05545429439381386,0
+EGY,Egypt,2020,7.35,185.03,2.33,Very Low,Developing Sustainers,1.7615023474178404,0
+SLV,El Salvador,2020,8.3,5.99,38.41,Low,Developing Sustainers,-0.21629384148025405,1
+GNQ,Equatorial Guinea,2020,7.33,2.8,2.23,Very Low,Developing Sustainers,-0.2515327257663629,0
+EST,Estonia,2020,6.37,7.02,3.92,Very Low,Industrial Giants,-0.20491576912455123,0
+SWZ,Eswatini,2020,9.24,1.15,1.95,Very Low,Green Leaders,-0.26975973487986743,0
+ETH,Ethiopia,2020,20.07,12.43,2.94,Very Low,Green Leaders,-0.1451532725766363,0
+FIN,Finland,2020,6.86,36.02,9.5,Very Low,Developing Sustainers,0.11543772438552888,0
+FRA,France,2020,10.35,260.54,7.31,Very Low,Green Leaders,2.595636564484949,0
+GAB,Gabon,2020,14.17,2.17,1.74,Very Low,Green Leaders,-0.2584921292460646,0
+GEO,Georgia,2020,5.54,9.31,14.89,Very Low,Industrial Giants,-0.17961888980944488,0
+DEU,Germany,2020,6.76,593.1,11.76,Very Low,Developing Sustainers,6.2693178679922665,0
+GHA,Ghana,2020,9.88,19.17,5.26,Very Low,Green Leaders,-0.07069870201601765,0
+GRC,Greece,2020,5.7,48.02,10.71,Very Low,Industrial Giants,0.24799779066556202,0
+GTM,Guatemala,2020,10.22,15.61,5.8,Very Low,Green Leaders,-0.11002485501242751,0
+GUY,Guyana,2020,5.64,2.61,0.06,Very Low,Industrial Giants,-0.2536315934824634,0
+HTI,Haiti,2020,10.25,3.13,0.36,Very Low,Green Leaders,-0.24788732394366197,0
+HND,Honduras,2020,5.76,8.21,12.09,Very Low,Industrial Giants,-0.1917702292184479,0
+HUN,Hungary,2020,6.78,43.75,3.41,Very Low,Developing Sustainers,0.20082850041425018,0
+ISL,Iceland,2020,12.39,1.45,89.47,Very High,Green Leaders,-0.26644573322286663,1
+IND,India,2020,4.18,2074.65,3.37,Very Low,Emerging Polluters,22.635515051090856,0
+IDN,Indonesia,2020,5.88,532.71,15.37,Very Low,Industrial Giants,5.602209334438001,0
+IRN,Iran,2020,2.0,622.34,0.56,Very Low,Emerging Polluters,6.592322562827947,0
+IRQ,Iraq,2020,3.06,121.75,0.94,Very Low,Emerging Polluters,1.0624689312344657,0
+IRL,Ireland,2020,14.19,31.9,10.99,Very Low,Green Leaders,0.06992543496271746,0
+ISR,Israel,2020,6.04,57.7,4.33,Very Low,Industrial Giants,0.35492957746478876,0
+ITA,Italy,2020,7.77,274.23,13.43,Very Low,Developing Sustainers,2.746865506766087,0
+JAM,Jamaica,2020,4.4,5.43,3.56,Very Low,Industrial Giants,-0.2224799779066556,0
+JPN,Japan,2020,5.17,990.63,4.68,Very Low,Industrial Giants,10.660701463684063,0
+JOR,Jordan,2020,4.6,19.96,6.91,Very Low,Industrial Giants,-0.06197183098591548,0
+KAZ,Kazakhstan,2020,2.22,204.37,1.6,Very Low,Emerging Polluters,1.9751449875724938,0
+KEN,Kenya,2020,13.18,15.75,16.91,Very Low,Green Leaders,-0.10847832090582711,0
+KOR,Korea,2020,3.92,546.81,1.44,Very Low,Emerging Polluters,5.757967412317038,0
+KWT,Kuwait,2020,1.84,90.86,0.12,Very Low,Emerging Polluters,0.7212372272852802,0
+KGZ,Kyrgyzstan,2020,3.35,8.26,31.8,Low,Emerging Polluters,-0.1912178956089478,1
+LAO,Lao People’s Democratic Republic,2020,3.16,16.89,45.81,Medium,Emerging Polluters,-0.09588511460922396,1
+LVA,Latvia,2020,8.27,6.38,9.47,Very Low,Developing Sustainers,-0.211985639326153,0
+LBN,Lebanon,2020,3.89,20.88,2.29,Very Low,Emerging Polluters,-0.051808892571112965,0
+LBY,Libya,2020,1.68,38.51,0.0,Very Low,Emerging Polluters,0.1429439381386357,0
+LTU,Lithuania,2020,8.75,11.14,4.55,Very Low,Developing Sustainers,-0.15940347970173985,0
+LUX,Luxembourg,2020,9.06,7.47,6.61,Very Low,Developing Sustainers,-0.19994476663904998,0
+MDG,Madagascar,2020,13.93,2.99,0.69,Very Low,Green Leaders,-0.24943385805026233,0
+MYS,Malaysia,2020,3.88,225.87,3.61,Very Low,Emerging Polluters,2.212648439657553,0
+MLT,Malta,2020,12.38,1.61,6.0,Very Low,Green Leaders,-0.26467826567246616,0
+MUS,Mauritius,2020,6.71,3.72,2.4,Very Low,Developing Sustainers,-0.24136978735156034,0
+MEX,Mexico,2020,6.24,356.37,4.39,Very Low,Industrial Giants,3.6542391604529136,0
+MDA,Moldova,2020,3.5,8.03,0.93,Very Low,Emerging Polluters,-0.19375863021264841,0
+MNG,Mongolia,2020,1.78,20.67,0.89,Very Low,Emerging Polluters,-0.05412869373101351,0
+MNE,Montenegro,2020,4.01,2.53,14.92,Very Low,Emerging Polluters,-0.2545153272576636,0
+MAR,Morocco,2020,4.57,62.23,3.79,Very Low,Industrial Giants,0.40497100248550116,0
+MOZ,Mozambique,2020,6.72,5.85,12.53,Very Low,Developing Sustainers,-0.21784037558685443,0
+MMR,Myanmar,2020,8.62,30.58,4.01,Very Low,Developing Sustainers,0.05534382767191381,0
+NAM,Namibia,2020,6.47,3.5,8.82,Very Low,Developing Sustainers,-0.24380005523336093,0
+NLD,Netherlands,2020,7.09,129.89,6.06,Very Low,Developing Sustainers,1.152388842861088,0
+NZL,New Zealand,2020,6.51,30.57,36.52,Low,Developing Sustainers,0.055233360950013806,1
+NIC,Nicaragua,2020,7.87,4.29,19.69,Very Low,Developing Sustainers,-0.23507318420325876,0
+NER,Niger,2020,14.27,2.14,0.06,Very Low,Green Leaders,-0.2588235294117647,0
+NGA,Nigeria,2020,10.71,93.74,0.42,Very Low,Green Leaders,0.7530516431924881,0
+MKD,North Macedonia,2020,4.49,6.78,5.66,Very Low,Industrial Giants,-0.20756697045015188,0
+NOR,Norway,2020,9.13,36.01,49.64,Medium,Green Leaders,0.1153272576636288,1
+OMN,Oman,2020,2.39,64.27,0.04,Very Low,Emerging Polluters,0.4275062137531068,0
+PAK,Pakistan,2020,6.14,189.59,3.0,Very Low,Industrial Giants,1.811875172604253,0
+PAN,Panama,2020,11.01,9.29,17.84,Very Low,Green Leaders,-0.17983982325324496,0
+PRY,Paraguay,2020,11.91,7.31,59.43,Medium,Green Leaders,-0.20171223418945045,1
+PER,Peru,2020,8.39,42.44,14.33,Very Low,Developing Sustainers,0.18635735984534654,0
+PHL,Philippines,2020,6.87,123.7,18.19,Very Low,Developing Sustainers,1.084009942004971,0
+POL,Poland,2020,4.39,272.5,3.26,Very Low,Industrial Giants,2.727754763877382,0
+PRT,Portugal,2020,8.6,36.52,14.85,Very Low,Developing Sustainers,0.12096106048053026,0
+QAT,Qatar,2020,2.86,83.89,0.0,Very Low,Emerging Polluters,0.644241922120961,0
+ROU,Romania,2020,7.81,64.74,8.07,Very Low,Developing Sustainers,0.4326981496824081,0
+RUS,Russia,2020,2.34,1559.75,2.46,Very Low,Emerging Polluters,16.947583540458435,0
+RWA,Rwanda,2020,21.25,1.23,1.01,Very Low,Green Leaders,-0.2688760011046672,0
+SAU,Saudi Arabia,2020,3.32,483.15,0.03,Very Low,Emerging Polluters,5.054736260701463,0
+SEN,Senegal,2020,7.05,7.97,1.11,Very Low,Developing Sustainers,-0.19442143054404862,0
+SRB,Serbia,2020,2.66,45.37,5.73,Very Low,Emerging Polluters,0.21872410936205464,0
+SGP,Singapore,2020,12.03,43.66,1.0,Very Low,Green Leaders,0.1998342999171499,0
+SVK,Slovak Republic,2020,6.39,27.59,4.72,Very Low,Developing Sustainers,0.022314277823805573,0
+SVN,Slovenia,2020,6.1,11.99,9.33,Very Low,Industrial Giants,-0.1500138083402375,0
+ZAF,South Africa,2020,1.92,386.15,1.15,Very Low,Emerging Polluters,3.9832090582711954,0
+SSD,South Sudan,2020,7.24,1.76,0.12,Very Low,Developing Sustainers,-0.2630212648439657,0
+ESP,Spain,2020,8.2,194.51,11.99,Very Low,Developing Sustainers,1.8662247997790664,0
+LKA,Sri Lanka,2020,13.4,20.83,4.13,Very Low,Green Leaders,-0.05236122618061311,0
+SDN,Sudan,2020,9.0,17.93,4.51,Very Low,Developing Sustainers,-0.0843965755316211,0
+SUR,Suriname,2020,3.21,2.58,8.08,Very Low,Emerging Polluters,-0.2539629936481635,0
+SWE,Sweden,2020,15.82,32.29,25.78,Low,Green Leaders,0.07423363711681855,0
+CHE,Switzerland,2020,17.14,33.24,19.2,Very Low,Green Leaders,0.0847279756973212,0
+TJK,Tajikistan,2020,4.9,7.25,42.56,Medium,Industrial Giants,-0.2023750345208506,1
+TZA,Tanzania,2020,10.98,13.83,1.15,Very Low,Green Leaders,-0.1296879315106324,0
+THA,Thailand,2020,4.96,241.76,3.67,Very Low,Industrial Giants,2.3881800607566968,0
+TGO,Togo,2020,11.01,1.59,0.36,Very Low,Green Leaders,-0.2648991991162662,0
+TTO,Trinidad and Tobago,2020,2.18,14.85,0.0,Very Low,Emerging Polluters,-0.1184203258768296,0
+TUN,Tunisia,2020,4.81,25.2,1.27,Very Low,Industrial Giants,-0.004087268710301032,0
+TKM,Turkmenistan,2020,1.81,59.18,0.0,Very Low,Emerging Polluters,0.3712786523059928,0
+TUR,Türkiye,2020,6.49,366.19,14.98,Very Low,Developing Sustainers,3.7627174813587403,0
+UGA,Uganda,2020,20.12,5.14,2.05,Very Low,Green Leaders,-0.22568351284175642,0
+UKR,Ukraine,2020,2.88,161.39,1.84,Very Low,Emerging Polluters,1.500359016846175,0
+ARE,United Arab Emirates,2020,3.6,175.18,0.63,Very Low,Emerging Polluters,1.6526926263463133,0
+GBR,United Kingdom,2020,8.9,300.55,8.94,Very Low,Developing Sustainers,3.0376139188069593,0
+USA,United States,2020,4.62,4257.63,5.83,Very Low,Industrial Giants,46.75017950842309,0
+URY,Uruguay,2020,11.74,6.16,18.52,Very Low,Green Leaders,-0.2144159072079536,0
+UZB,Uzbekistan,2020,2.41,109.65,0.95,Very Low,Emerging Polluters,0.9288041977354323,0
+VNM,Viet Nam,2020,3.24,297.62,7.45,Very Low,Emerging Polluters,3.0052471692902514,0
+YEM,Yemen,2020,10.55,8.59,1.46,Very Low,Green Leaders,-0.18757249378624688,0
+ZMB,Zambia,2020,10.34,5.83,10.18,Very Low,Green Leaders,-0.21806130903065452,0
+ZWE,Zimbabwe,2020,4.5,8.06,3.61,Very Low,Industrial Giants,-0.1934272300469483,0
