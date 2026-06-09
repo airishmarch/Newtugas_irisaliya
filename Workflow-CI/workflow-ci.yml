@@ -1,0 +1,39 @@
+name: CI - Train Clustering Model
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  train:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12.7'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Train Clustering Model
+        run: |
+          python main.py
+
+      - name: Upload Model Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: clustering-models
+          path: |
+            models/
+            artifacts/
